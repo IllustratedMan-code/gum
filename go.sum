@@ -1,8 +1,8 @@
 github.com/alecthomas/assert/v2 v2.1.0 h1:tbredtNcQnoSd3QBhQWI7QZ3XHOVkw1Moklp2ojoH/0=
 github.com/alecthomas/chroma v0.10.0 h1:7XDcGkCQopCNKjZHfYrNLraA+M7e0fMiJ/Mfikbfjek=
 github.com/alecthomas/chroma v0.10.0/go.mod h1:jtJATyUxlIORhUOFNA9NZDWGAQ8wpxQQqNSB4rjA/1s=
-github.com/alecthomas/kong v0.7.1 h1:azoTh0IOfwlAX3qN9sHWTxACE2oV8Bg2gAwBsMwDQY4=
-github.com/alecthomas/kong v0.7.1/go.mod h1:n1iCIO2xS46oE8ZfYCNDqdR0b0wZNrXAIAqro/2132U=
+github.com/alecthomas/kong v0.8.0 h1:ryDCzutfIqJPnNn0omnrgHLbAggDQM2VWHikE1xqK7s=
+github.com/alecthomas/kong v0.8.0/go.mod h1:n1iCIO2xS46oE8ZfYCNDqdR0b0wZNrXAIAqro/2132U=
 github.com/alecthomas/mango-kong v0.1.0 h1:iFVfP1k1K4qpml3JUQmD5I8MCQYfIvsD9mRdrw7jJC4=
 github.com/alecthomas/mango-kong v0.1.0/go.mod h1:t+TYVdsONUolf/BwVcm+15eqcdAj15h4Qe9MMFAwwT4=
 github.com/alecthomas/repr v0.1.0 h1:ENn2e1+J3k09gyj2shc0dHr/yjaWSHRlrJ4DPMevDqE=
@@ -13,8 +13,6 @@ github.com/aymanbagabas/go-osc52/v2 v2.0.1 h1:HwpRHbFMcZLEVr42D4p7XBqjyuxQH5SMiE
 github.com/aymanbagabas/go-osc52/v2 v2.0.1/go.mod h1:uYgXzlJ7ZpABp8OJ+exZzJJhRNQ2ASbcXHWsFqH8hp8=
 github.com/aymerick/douceur v0.2.0 h1:Mv+mAeH1Q+n9Fr+oyamOlAkUNPWPlA8PPGR0QAaYuPk=
 github.com/aymerick/douceur v0.2.0/go.mod h1:wlT5vV2O3h55X9m7iVYN0TBM0NH/MmbLnd30/FjWUq4=
-github.com/charmbracelet/bubbles v0.15.1-0.20230324185713-1de5816ab4f7 h1:16QEZgcSr80fcXZBlqSZG5F+1j5CATd/ZLcNjV8DBdU=
-github.com/charmbracelet/bubbles v0.15.1-0.20230324185713-1de5816ab4f7/go.mod h1:39HL8bnL0foloiENA/KvD+3mNg5SqWQV2Qh3eY/4ey4=
 github.com/charmbracelet/bubbles v0.15.1-0.20230501135844-7590e13c2a27 h1:IF1XCxwu1M1J+n+akXYUm4CQh1B+2QdZxhJEW4G0kG0=
 github.com/charmbracelet/bubbles v0.15.1-0.20230501135844-7590e13c2a27/go.mod h1:39HL8bnL0foloiENA/KvD+3mNg5SqWQV2Qh3eY/4ey4=
 github.com/charmbracelet/bubbletea v0.23.1/go.mod h1:JAfGK/3/pPKHTnAS8JIE2u9f61BjWTQY57RbT25aMXU=
